@@ -1,2 +1,2 @@
 # LearnLeetCode
-Prictice for LC
+Practice for LC
